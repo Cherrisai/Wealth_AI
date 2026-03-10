@@ -1,4 +1,4 @@
-# 💰 AI Personal Wealth Analyzer
+# AI Personal Wealth Analyzer
 
 An AI-powered personal finance dashboard built with Streamlit. Enter your income, loans, and savings to get a complete financial health analysis — stress predictions, debt risk scoring, net worth projections, and actionable advice.
 

@@ -2,6 +2,8 @@
 
 An AI-powered personal finance dashboard built with Streamlit. Enter your income, loans, and savings to get a complete financial health analysis — stress predictions, debt risk scoring, net worth projections, and actionable advice.
 
+huggingface deployment : https://huggingface.co/spaces/cherrisai/wealth_AI
+
 ---
 
 ## Features

@@ -4,7 +4,18 @@ An AI-powered personal finance dashboard built with Streamlit. Enter your income
 
 huggingface deployment : https://huggingface.co/spaces/cherrisai/wealth_AI
 
+## Known Issues (Hugging Face Deployment)
+- Some interactive charts (especially Plotly gauge / projections) may not render correctly in the Hugging Face Spaces deployment.
+- In certain cases, data values may not display even though calculations are working in the backend.
+- This issue does NOT occur in local execution (`streamlit run app.py`).
+
+### Reason
+This is likely due to environment or Streamlit compatibility differences in the deployment platform.
+
+### Status
+Fix in progress — working on improving deployment stability.
 ---
+💡 Tip: For best experience, run locally.
 
 ## Features
 
